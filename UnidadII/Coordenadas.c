@@ -70,4 +70,5 @@ int opc;             //Comenzamos con el menú para calcular el area y el perime
             printf("%s\n", "\nOpción inválida\n"); //Y en caso de que no se seleccione ninguna opción se imprimira opción inválida
         break; //se cierra el default
     return 0; //Return 0 del for para que no quiebre el código
-}}
+}
+}
