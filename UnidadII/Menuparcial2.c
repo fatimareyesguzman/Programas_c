@@ -4124,8 +4124,6 @@ int main() {
         programa73();
         break;
 
-
-
         default:
             printf("No ha seleccionado una opción válida\n");
             break;
